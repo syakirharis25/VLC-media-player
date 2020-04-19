@@ -23,6 +23,7 @@ VLC media player official website : https://www.videolan.org <br />
 
 **_VLC media player screen management_** <br />
 **[ Shift ]** + **[ S ]** : screen capture
+**[ F ]** : first time hit -> enter full screen mode, second time hit -> exit full screen mode
 
 <a name="github"></a>
 ## 5. GitHub notes.
