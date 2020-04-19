@@ -10,7 +10,6 @@ My works related to VLC media player, an open-source portable cross-platform med
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="vlc.png" height="110">
 VLC media player (previously the VideoLAN Client and commonly known as simply VLC) is a free and open-source portable cross-platform media player software and streaming media server developed by the VideoLAN project. VLC is available for desktop operating systems and mobile platforms, such as Android, iOS, iPadOS, Tizen, Windows 10 Mobile and Windows Phone. VLC is also available on digital distribution platforms such as Apple's App Store, Google Play and Microsoft Store.
 <br /><br />
 VLC supports many audio and video compression methods and file formats, including DVD-Video, video CD and streaming protocols. It is able to stream media over computer networks and to transcode multimedia files. The default distribution of VLC includes many free decoding and encoding libraries, avoiding the need for finding/calibrating proprietary plugins. The libavcodec library from the FFmpeg project provides many of VLC's codecs, but the player mainly uses its own muxers and demuxers. It also has its own protocol implementations. It also gained distinction as the first player to support playback of encrypted DVDs on Linux and macOS by using the libdvdcss DVD decryption library, however this library is legally controversial and is not included in many software repositories of Linux distributions as a result.
